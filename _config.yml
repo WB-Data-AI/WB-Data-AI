@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Workshop
+title: Workshop "Digital Transformation, Data and AI in the Western Balkans"
 email: blagoj.delipetrev@ec.europa.eu
 description: >- # this means to ignore newlines until "baseurl:"
   
